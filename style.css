@@ -1,0 +1,17 @@
+.instructions {
+  height: 100vh;
+  width: 100vw;
+}
+
+.instructions img {
+  display: block;
+  width: 100%;
+}
+
+.card-wrap {
+  padding: 2vh 5vw;
+}
+
+.card-text-center {
+  background: gray;
+}
